@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitHub Viewer</string>
+    <string name="main_screen_search">Search</string>
+    <string name="user_not_found">User not found. Please enter another name.</string>
+    <string name="api_error">A network error has occurred. Check your Internet connection and try again
+later.</string>
+    <string name="ok_button">OK</string>
+</resources>
